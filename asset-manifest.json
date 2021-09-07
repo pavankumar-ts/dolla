@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/dolla/static/css/main.e1ce61ea.chunk.css",
-    "main.js": "/dolla/static/js/main.38896436.chunk.js",
-    "main.js.map": "/dolla/static/js/main.38896436.chunk.js.map",
-    "runtime-main.js": "/dolla/static/js/runtime-main.59f2af0f.js",
-    "runtime-main.js.map": "/dolla/static/js/runtime-main.59f2af0f.js.map",
-    "static/js/2.52943188.chunk.js": "/dolla/static/js/2.52943188.chunk.js",
-    "static/js/2.52943188.chunk.js.map": "/dolla/static/js/2.52943188.chunk.js.map",
-    "index.html": "/dolla/index.html",
-    "static/css/main.e1ce61ea.chunk.css.map": "/dolla/static/css/main.e1ce61ea.chunk.css.map",
-    "static/js/2.52943188.chunk.js.LICENSE.txt": "/dolla/static/js/2.52943188.chunk.js.LICENSE.txt",
-    "static/media/svg-1.svg": "/dolla/static/media/svg-1.198c8835.svg",
-    "static/media/svg-2.d6cad293.svg": "/dolla/static/media/svg-2.d6cad293.svg",
-    "static/media/svg-3.svg": "/dolla/static/media/svg-3.237d4992.svg",
-    "static/media/svg-4.svg": "/dolla/static/media/svg-4.5f11287c.svg",
-    "static/media/video.7d1ea6a9.mp4": "/dolla/static/media/video.7d1ea6a9.mp4"
+    "main.css": "/static/css/main.e1ce61ea.chunk.css",
+    "main.js": "/static/js/main.38896436.chunk.js",
+    "main.js.map": "/static/js/main.38896436.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.58094982.js",
+    "runtime-main.js.map": "/static/js/runtime-main.58094982.js.map",
+    "static/js/2.c9cf3d8c.chunk.js": "/static/js/2.c9cf3d8c.chunk.js",
+    "static/js/2.c9cf3d8c.chunk.js.map": "/static/js/2.c9cf3d8c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e1ce61ea.chunk.css.map": "/static/css/main.e1ce61ea.chunk.css.map",
+    "static/js/2.c9cf3d8c.chunk.js.LICENSE.txt": "/static/js/2.c9cf3d8c.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/static/media/svg-1.198c8835.svg",
+    "static/media/svg-2.d6cad293.svg": "/static/media/svg-2.d6cad293.svg",
+    "static/media/svg-3.svg": "/static/media/svg-3.237d4992.svg",
+    "static/media/svg-4.svg": "/static/media/svg-4.5f11287c.svg",
+    "static/media/video.7d1ea6a9.mp4": "/static/media/video.7d1ea6a9.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.59f2af0f.js",
-    "static/js/2.52943188.chunk.js",
+    "static/js/runtime-main.58094982.js",
+    "static/js/2.c9cf3d8c.chunk.js",
     "static/css/main.e1ce61ea.chunk.css",
     "static/js/main.38896436.chunk.js"
   ]

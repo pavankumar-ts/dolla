@@ -55,8 +55,8 @@ const Footer = () => {
                         <SocialLogo to='/' onClick={toggleHome} >
                             dollo
                         </SocialLogo>
-                        <WebsiteRights>dollo c {new Date().getFullYear()}
-                        All rights reserved</WebsiteRights>
+                        <WebsiteRights>developer: pavan kumar
+                        </WebsiteRights>
                         <SocialIcons>
                             <SocialIconLink href="//www.facebook.com" target="_blabk" aria-label="facebook">
                                 <FaFacebook />
